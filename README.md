@@ -41,3 +41,4 @@ Nice! Here's a simple line you can add above the GIF in your README:
 
 > 🎬 **Here's a quick demo of my project in action:**
 ![image alt](https://github.com/bmsam/Audio_Visualizers_basic/blob/main/all%20mix.gif?raw=true)
+![all mix](https://github.com/user-attachments/assets/183dcc61-aaeb-4806-a0f2-2945a8e48796)
