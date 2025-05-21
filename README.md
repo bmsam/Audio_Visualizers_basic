@@ -40,4 +40,4 @@ This project is a **basic audio visualizer** that creates dynamic visual effects
 Nice! Here's a simple line you can add above the GIF in your README:
 
 > 🎬 **Here's a quick demo of my project in action:**
-![gif alt](https://github.com/bmsam/Audio_Visualizers_basic/blob/main/all%20mix.gif?raw=true)
+![image alt](https://github.com/bmsam/Audio_Visualizers_basic/blob/main/all%20mix.gif?raw=true)
