@@ -35,7 +35,5 @@ This project is a **basic audio visualizer** that creates dynamic visual effects
    pip install numpy pygame pydub moviepy
 
 ---
-Perfect — here’s the final, clear version for your repository:
-
 > **Note:** The first and last code files are the same audio visualizer. The only difference is that in the **first code**, after the visualizer plays, it **automatically downloads the video to the current directory** using `ImageSequenceClip` from the `moviepy` library.
 
