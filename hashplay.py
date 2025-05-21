@@ -74,7 +74,7 @@ def draw_char_grid(screen, samples):
 
 # Main loop
 def main():
-    audio_file = r"C:\Users\mukes\Desktop\IBM\IG Mix\mix soft\completed\posted\proj 1\FInal.mp4"# Replace with your audio file path
+    audio_file = r"C:\Users\audio.mp3" #Replace r"C:\Users\audio.mp3" with your audio file path (Ctrl+Shift+C to copy).
     audio_data = load_audio_file(audio_file)
     if audio_data is None:
         return
