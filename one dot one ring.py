@@ -83,7 +83,7 @@ def draw_dots_circle(screen: pygame.Surface, samples: np.ndarray) -> None:
 def main() -> None:
     try:
         # Load the audio file
-        audio_file = r"C:\Users\mukes\Desktop\IBM\IG Mix\mix soft\hayyoda.mp3"  # Replace with your audio file path
+        audio_file = r"C:\Users\audio.mp3" # Replace r"C:\Users\audio.mp3" with your audio file path (Ctrl+Shift+C to copy).
         audio_segment = AudioSegment.from_file(audio_file)
 
         # Handle stereo audio
