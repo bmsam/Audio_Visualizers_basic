@@ -56,7 +56,7 @@ def main() -> None:
     """Runs the main loop."""
     try:
         # Load the audio file
-        audio_file = r"C:\Users\mukes\Desktop\IBM\IG Mix\mix soft\completed\posted\proj 1\Chall.mp3"  # Replace with your audio file path
+        audio_file = r"C:\Users\audio.mp3" #Replace r"C:\Users\audio.mp3" with your audio file path (Ctrl+Shift+C to copy).
         audio_segment = AudioSegment.from_file(audio_file)
         audio_data = np.array(audio_segment.get_array_of_samples()).astype(np.float32)
 
