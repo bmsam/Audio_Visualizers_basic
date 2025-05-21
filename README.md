@@ -37,3 +37,7 @@ This project is a **basic audio visualizer** that creates dynamic visual effects
 ---
 > **Note:** The first and last code files are the same audio visualizer. The only difference is that in the **first code**, after the visualizer plays, it **automatically downloads the video to the current directory** using `ImageSequenceClip` from the `moviepy` library.
 
+Nice! Here's a simple line you can add above the GIF in your README:
+
+> 🎬 **Here's a quick demo of my project in action:**
+![gif alt](https://github.com/bmsam/Audio_Visualizers_basic/blob/main/all%20mix.gif?raw=true)
