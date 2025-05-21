@@ -48,7 +48,7 @@ def draw_dots_circle(screen: pygame.Surface, samples: np.ndarray) -> None:
 
 def main() -> None:
     try:
-        audio_file = r"C:\Users\mukes\Desktop\IBM\IG Mix\mix soft\completed\posted\proj 1\Chall.mp3"
+        audio_file = r"C:\Users\audio.mp3"
         audio_segment = AudioSegment.from_file(audio_file)
         
         if audio_segment.channels > 1:
