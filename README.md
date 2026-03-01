@@ -40,3 +40,8 @@ This project is a **basic audio visualizer** that creates dynamic visual effects
 > 🎬 **Here's a quick demo of my project in action:**
 ![image alt](https://github.com/bmsam/Audio_Visualizers_basic/blob/main/all%20mix.gif?raw=true)
 
+---
+## NOTE 
+I completed this project in Oct 2024. The below img is the evidence to it. 
+
+![img](https://github.com/bmsam/Audio_Visualizers_basic/blob/ef697ba1da364aa1a2a0acf627991c4383c25958/Proof.png)
